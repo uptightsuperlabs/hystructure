@@ -1,0 +1,6 @@
+# folders
+.xmake/
+build/
+
+# files
+compile_commands.json
