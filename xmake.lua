@@ -1,4 +1,6 @@
-local _packages, packages = {}, {};
+local _packages, packages = {}, {
+    ["nlohmann_json"] = {};
+}
 
 do
     for package, config in pairs(packages) do
